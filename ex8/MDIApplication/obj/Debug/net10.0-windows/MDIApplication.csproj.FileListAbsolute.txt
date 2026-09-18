@@ -1,0 +1,14 @@
+C:\Users\vaish\OneDrive\Documents\Desktop\MDIApplication\MDIApplication\bin\Debug\net10.0-windows\MDIApplication.exe
+C:\Users\vaish\OneDrive\Documents\Desktop\MDIApplication\MDIApplication\bin\Debug\net10.0-windows\MDIApplication.deps.json
+C:\Users\vaish\OneDrive\Documents\Desktop\MDIApplication\MDIApplication\bin\Debug\net10.0-windows\MDIApplication.runtimeconfig.json
+C:\Users\vaish\OneDrive\Documents\Desktop\MDIApplication\MDIApplication\bin\Debug\net10.0-windows\MDIApplication.dll
+C:\Users\vaish\OneDrive\Documents\Desktop\MDIApplication\MDIApplication\bin\Debug\net10.0-windows\MDIApplication.pdb
+C:\Users\vaish\OneDrive\Documents\Desktop\MDIApplication\MDIApplication\obj\Debug\net10.0-windows\MDIApplication.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\vaish\OneDrive\Documents\Desktop\MDIApplication\MDIApplication\obj\Debug\net10.0-windows\MDIApplication.AssemblyInfoInputs.cache
+C:\Users\vaish\OneDrive\Documents\Desktop\MDIApplication\MDIApplication\obj\Debug\net10.0-windows\MDIApplication.AssemblyInfo.cs
+C:\Users\vaish\OneDrive\Documents\Desktop\MDIApplication\MDIApplication\obj\Debug\net10.0-windows\MDIApplication.csproj.CoreCompileInputs.cache
+C:\Users\vaish\OneDrive\Documents\Desktop\MDIApplication\MDIApplication\obj\Debug\net10.0-windows\MDIApplication.dll
+C:\Users\vaish\OneDrive\Documents\Desktop\MDIApplication\MDIApplication\obj\Debug\net10.0-windows\refint\MDIApplication.dll
+C:\Users\vaish\OneDrive\Documents\Desktop\MDIApplication\MDIApplication\obj\Debug\net10.0-windows\MDIApplication.pdb
+C:\Users\vaish\OneDrive\Documents\Desktop\MDIApplication\MDIApplication\obj\Debug\net10.0-windows\MDIApplication.genruntimeconfig.cache
+C:\Users\vaish\OneDrive\Documents\Desktop\MDIApplication\MDIApplication\obj\Debug\net10.0-windows\ref\MDIApplication.dll

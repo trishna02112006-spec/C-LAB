@@ -1,0 +1,14 @@
+C:\Users\vaish\OneDrive\Documents\Desktop\ex7a\bin\Debug\net8.0-windows\ex7a.exe
+C:\Users\vaish\OneDrive\Documents\Desktop\ex7a\bin\Debug\net8.0-windows\ex7a.deps.json
+C:\Users\vaish\OneDrive\Documents\Desktop\ex7a\bin\Debug\net8.0-windows\ex7a.runtimeconfig.json
+C:\Users\vaish\OneDrive\Documents\Desktop\ex7a\bin\Debug\net8.0-windows\ex7a.dll
+C:\Users\vaish\OneDrive\Documents\Desktop\ex7a\bin\Debug\net8.0-windows\ex7a.pdb
+C:\Users\vaish\OneDrive\Documents\Desktop\ex7a\obj\Debug\net8.0-windows\ex7a.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\vaish\OneDrive\Documents\Desktop\ex7a\obj\Debug\net8.0-windows\ex7a.AssemblyInfoInputs.cache
+C:\Users\vaish\OneDrive\Documents\Desktop\ex7a\obj\Debug\net8.0-windows\ex7a.AssemblyInfo.cs
+C:\Users\vaish\OneDrive\Documents\Desktop\ex7a\obj\Debug\net8.0-windows\ex7a.csproj.CoreCompileInputs.cache
+C:\Users\vaish\OneDrive\Documents\Desktop\ex7a\obj\Debug\net8.0-windows\ex7a.dll
+C:\Users\vaish\OneDrive\Documents\Desktop\ex7a\obj\Debug\net8.0-windows\refint\ex7a.dll
+C:\Users\vaish\OneDrive\Documents\Desktop\ex7a\obj\Debug\net8.0-windows\ex7a.pdb
+C:\Users\vaish\OneDrive\Documents\Desktop\ex7a\obj\Debug\net8.0-windows\ex7a.genruntimeconfig.cache
+C:\Users\vaish\OneDrive\Documents\Desktop\ex7a\obj\Debug\net8.0-windows\ref\ex7a.dll

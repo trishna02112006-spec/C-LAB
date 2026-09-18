@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "fnSeEUEA4g4=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\vaish\\OneDrive\\Documents\\Desktop\\ex7a\\ex7a.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\vaish\\.nuget\\packages\\microsoft.netcore.app.ref\\8.0.29\\microsoft.netcore.app.ref.8.0.29.nupkg.sha512",
+    "C:\\Users\\vaish\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\8.0.29\\microsoft.windowsdesktop.app.ref.8.0.29.nupkg.sha512",
+    "C:\\Users\\vaish\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\8.0.29\\microsoft.aspnetcore.app.ref.8.0.29.nupkg.sha512",
+    "C:\\Users\\vaish\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\8.0.29\\microsoft.netcore.app.host.win-x64.8.0.29.nupkg.sha512"
+  ],
+  "logs": []
+}

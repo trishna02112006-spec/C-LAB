@@ -1,0 +1,14 @@
+C:\Users\vaish\OneDrive\Documents\Desktop\ex7b\bin\Debug\net10.0\ex7b.exe
+C:\Users\vaish\OneDrive\Documents\Desktop\ex7b\bin\Debug\net10.0\ex7b.deps.json
+C:\Users\vaish\OneDrive\Documents\Desktop\ex7b\bin\Debug\net10.0\ex7b.runtimeconfig.json
+C:\Users\vaish\OneDrive\Documents\Desktop\ex7b\bin\Debug\net10.0\ex7b.dll
+C:\Users\vaish\OneDrive\Documents\Desktop\ex7b\bin\Debug\net10.0\ex7b.pdb
+C:\Users\vaish\OneDrive\Documents\Desktop\ex7b\obj\Debug\net10.0\ex7b.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\vaish\OneDrive\Documents\Desktop\ex7b\obj\Debug\net10.0\ex7b.AssemblyInfoInputs.cache
+C:\Users\vaish\OneDrive\Documents\Desktop\ex7b\obj\Debug\net10.0\ex7b.AssemblyInfo.cs
+C:\Users\vaish\OneDrive\Documents\Desktop\ex7b\obj\Debug\net10.0\ex7b.csproj.CoreCompileInputs.cache
+C:\Users\vaish\OneDrive\Documents\Desktop\ex7b\obj\Debug\net10.0\ex7b.dll
+C:\Users\vaish\OneDrive\Documents\Desktop\ex7b\obj\Debug\net10.0\refint\ex7b.dll
+C:\Users\vaish\OneDrive\Documents\Desktop\ex7b\obj\Debug\net10.0\ex7b.pdb
+C:\Users\vaish\OneDrive\Documents\Desktop\ex7b\obj\Debug\net10.0\ex7b.genruntimeconfig.cache
+C:\Users\vaish\OneDrive\Documents\Desktop\ex7b\obj\Debug\net10.0\ref\ex7b.dll

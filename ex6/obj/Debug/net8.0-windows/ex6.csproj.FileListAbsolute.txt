@@ -1,0 +1,4 @@
+C:\Users\vaish\OneDrive\Documents\Desktop\ex6\obj\Debug\net8.0-windows\ex6.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\vaish\OneDrive\Documents\Desktop\ex6\obj\Debug\net8.0-windows\ex6.AssemblyInfoInputs.cache
+C:\Users\vaish\OneDrive\Documents\Desktop\ex6\obj\Debug\net8.0-windows\ex6.AssemblyInfo.cs
+C:\Users\vaish\OneDrive\Documents\Desktop\ex6\obj\Debug\net8.0-windows\ex6.csproj.CoreCompileInputs.cache
